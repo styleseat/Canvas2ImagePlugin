@@ -49,9 +49,8 @@
 }
 
 - (void)dealloc
-{	
-	[callbackId release];
-    [super dealloc];
+{
+
 }
 
 
